@@ -40,3 +40,5 @@ The app has been styled using CSS and includes some customizations to give it a 
 ## 👨‍💻 Contributing
 Contributions are always welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
+## 🌐 Deployed Website
+This app is deployed using GitHub Pages and can be accessed at https://stephaniearismendi.github.io/react-to-do-list/.
