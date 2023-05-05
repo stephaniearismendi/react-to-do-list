@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+input[type="checkbox"]:checked+span {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+span {
+    flex: 1;
+}
